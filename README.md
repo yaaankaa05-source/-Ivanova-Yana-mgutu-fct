@@ -12,7 +12,7 @@
 Чек-лист первого контрибьюта:
 1. Сделайте форк репозитория (кнопка Fork в правом верхнем углу).
 2. Клонируйте свой форк локально:
-   git clone https://github.com/ВАШ-ЛОГИН/Ivanova-Yana-mgutu-fct.git
+   git clone https://github.com/yaaankaa05-source/Ivanova-Yana-mgutu-fct
 3. Перейдите в папку проекта:
    cd Ivanova-Yana-mgutu-fct
 4. Установите зависимости:
